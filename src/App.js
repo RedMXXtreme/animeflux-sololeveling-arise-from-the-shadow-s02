@@ -14,7 +14,7 @@ const AnimePage = () => {
    { id: 10, src: "https://yasdownloads.org/solo-leveling-season-2-arise-from-the-shadow-19413?season=01&episode=10", HD1:"https://newer.stream/v/nwLINPQ6BfXa/", HD2:"",HDSUB1:"https://newer.stream/v/7ZPoQRFeDFGJ/",HDSUB2:"https://sstream.site/e/efquvldg1zm7"},
    { id: 11, src: "https://yasdownloads.org/solo-leveling-season-2-arise-from-the-shadow-19413?season=01&episode=11", HD1:"https://newer.stream/v/YlZkbNwZrLbH/", HD2:"",HDSUB1:"https://newer.stream/v/AoprcnoEj3cq/",HDSUB2:"https://sstream.site/e/okcdfc2ipxm0"},
    { id: 12, src: "https://yasdownloads.org/solo-leveling-season-2-arise-from-the-shadow-19413?season=01&episode=12", HD1:"https://newer.stream/v/zjQAByzSFcNo/", HD2:"https://a-russia.1stkmgv1.com/embed/2025/04/08/playlist_204702.m3u8",HDSUB1:"https://newer.stream/v/a0DvbdJVqTly/",HDSUB2:"https://sstream.site/e/romcmsmp8apo"},
-   { id: 13, HDSUB1:"https://newer.stream/v/ffITwuN8F0xL/",HDSUB2:"https://sstream.site/e/3j2dhe93brmo"},
+   { id: 13, src: "", HD1:"", HD2:"" ,HDSUB1:"https://newer.stream/v/ffITwuN8F0xL/",HDSUB2:"https://sstream.site/e/3j2dhe93brmo"},
     
   ];
 
@@ -304,7 +304,7 @@ const AnimePage = () => {
       <div className="p-4 mt-8 bg-gray-800 rounded-lg shadow-md">
         <h2 className="text-xl font-bold mb-4">Seasons</h2>
         <div className="flex gap-4 overflow-x-auto">
-          <a href="https://www.animekai.to/seasons/season-1"><button>
+          <a href="https://animeflux-solo-leveling-s01.pages.dev/"><button>
           <div className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
           style={{ backgroundImage: "url('https://static1.animekai.to/a6/i/b/01/67664ac5d6eaa@300.jpg')", backgroundSize: "cover" }}>
             <h3 className="font-bold">Season 1</h3>
@@ -312,7 +312,7 @@ const AnimePage = () => {
           </div>
           </button>
           </a>
-          <a href="https://www.animekai.to/seasons/season-2">
+          <a href="https://animeflux-sololeveling-arise-from-the-shadow-s02.pages.dev/">
           <button>
           <div className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
           style={{ backgroundImage: "url('https://static1.animekai.to/86/i/e/d4/67829cc6b52b8.jpg')", backgroundSize: "cover" }}>
